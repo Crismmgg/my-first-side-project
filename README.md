@@ -1,15 +1,13 @@
-# Se cena en esta casa, o qué?
+# SE CENA EN ESTA CASA, O QUÉ?
 
-INTRO
+## Intro
 
 Este es mi primer proyecto personal como desarrolladora front-end y mis objetivos con el mismo son los que os cuento un poquito más adelante.
 Si queréis contribuir o echarme una mano para mejorar cualquier cosa, ¡no dudéis en hacerlo! :)
 
 
 
-OBJETIVOS PERSONALES
-
-Mis objetivos personales con este proyecto son:
+## Objetivos personales
 
 Mejorar mis conocimientos de CSS:
 - Especialmente CSS Grid.
@@ -21,7 +19,7 @@ Mejorar mis conocimientos de JavaScript y React:
 
 
 
-OBJETIVO DEL PROYECTO
+## Objetivo del proyecto
 
 Todas las noches se me presenta la misma problemática... ¿qué puedo cenar? y todas las noches termino cenando lo mismo debido a la limitada variedad de ingredientes residentes en mi nevera y mi escasa imaginación.
 
