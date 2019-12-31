@@ -5,19 +5,17 @@
 Este es mi primer proyecto personal como desarrolladora front-end y mis objetivos con el mismo son los que os cuento un poquito más adelante.
 Si queréis contribuir o echarme una mano para mejorar cualquier cosa, ¡no dudéis en hacerlo! :)
 
-
-
 ## Objetivos personales
 
 Mejorar mis conocimientos de CSS:
+
 - Especialmente CSS Grid.
 
 Mejorar mis conocimientos de JavaScript y React:
+
 - Manejo de arrays y objetos.
 - Realización de llamadas a un API.
 - Realizar una interfaz de usuario dinámica.
-
-
 
 ## Objetivo del proyecto
 
@@ -34,3 +32,7 @@ Crear una web donde puedas introducir los ingredientes que tienes en la nevera y
 - Cuando ya hemos añadido los ingredientes en nuestra lista, pulsamos un botón que nos mostrará en la parte derecha de la pantalla las diferentes recetas con los ingredientes que hemos ido introduciendo.
 
 y ¡tachán!...a grandes rasgos, esto sería todo amiguis!!!
+
+## Fases del proyecto.
+
+- [Fase 1](./Fase-1.md)
